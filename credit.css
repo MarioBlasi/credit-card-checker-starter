@@ -1,0 +1,16 @@
+.card-body {
+    background-color: #f8f9fa; 
+}
+#cardNumber {
+    border: 2px solid #007bff;
+    border-radius: 5px;
+}
+#resetButton {
+    background-color: #17a2b8;
+    border-color: #17a2b8; 
+    color: #fff;
+}
+#resetButton:hover {
+    background-color: #138496;
+    border-color: #138496; 
+}
